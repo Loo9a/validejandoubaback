@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ÿ¸·´şÿÿÿÿ8±õª¬2J$17f1ad85-ed72-4736-af15-4b36b5450fcf
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÙ×…úÿÿÿÿJ$3faaa11d-14e3-4e11-ac34-f40b109b0c79
+•	java:S116"NRename this field "Nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ç³ûÿÿÿÿ8’±õª¬2J$52dbdd3e-3070-4eb7-b745-27f2b763f474
+“	java:S116"QRename this field "Prenom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÿÅß8’±õª¬2J$142fcd16-25c9-48ee-a8bc-df05e5c2ccd2
+’	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚8“±õª¬2J$541dd48a-8dd5-4d06-8b53-a9f55f2329b7
+˜	java:S116"QRename this field "Numero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ûœ£øÿÿÿÿ8“±õª¬2J$52d61abb-5401-4a82-8820-1f6806264cdc

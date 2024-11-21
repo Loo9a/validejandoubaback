@@ -1,0 +1,10 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä¯“øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úŒ±Ëùÿÿÿÿ
+b	java:S116"MRename this field "CR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¦¡©
+—
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óî€¢
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+A
+java:S11680"+Return an empty collection instead of null.(¥¹ï
